@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graficacion", "Graficacion\Graficacion.csproj", "{9F0396D7-B5B1-429A-9D58-34F3DB16ECEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0396D7-B5B1-429A-9D58-34F3DB16ECEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0396D7-B5B1-429A-9D58-34F3DB16ECEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0396D7-B5B1-429A-9D58-34F3DB16ECEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0396D7-B5B1-429A-9D58-34F3DB16ECEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EADF40D-8CD4-43C2-816E-17FF9DC7C75E}
+	EndGlobalSection
+EndGlobal
